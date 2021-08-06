@@ -66,6 +66,16 @@ body {
   width: 100%;
   text-align: center;
 }
+
+#dp {
+  position: absolute;
+  left: 0;
+  top: 25%;
+  padding: 0 10px;
+  width: 100%;
+  text-align: center;
+}
+
 h2 {
   text-transform: uppercase;
   font-size: 50px;
