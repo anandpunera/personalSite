@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img width="80%" align="center" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
 <img height="350px" align="right" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/mobile-demo.gif" alt="portfolio mobile demo gif"/>
 
@@ -132,3 +133,39 @@ If you have any suggestions on what to improve in <em>react-frontend-dev-portfol
 Images used in portfolio template come from Pixabay, references:
 
 <a href="https://pixabay.com/photos/people-woman-girl-clothing-eye-2563491/">p1</a>, <a href="https://pixabay.com/photos/dog-puppy-sharpei-petit-animal-1865712/">p2</a>, <a href="https://pixabay.com/photos/night-camera-photographer-photo-1927265/">p3</a>, <a href="https://pixabay.com/photos/road-forest-season-autumn-fall-1072823/">p4</a>, <a href="https://pixabay.com/photos/neuschwanstein-castle-bavaria-701732/">p5</a>, <a href="https://pixabay.com/photos/hohenschwangau-alps-alpsee-bavaria-532864/">p6</a>
+=======
+# ParticleGround-Portfolio
+
+A particle-theme template as a landing page for your portfolio.
+
+> [Demo](https://landing-page--itsron717.repl.co/)
+
+<img src="particle_demo/particle_demo.png"/>
+
+# Using the Template
+
+  - Fork and Clone the repository
+
+    ```
+    $ git clone https://github.com/itsron717/ParticleGround-Portfolio.git
+    ```
+ 
+  - Go inside the main repository
+  
+    ```
+    $ cd ParticleGround-Portfolio
+    ```
+    
+  - Modify `index.html` to change the names and links to point at your pages.
+  
+  - Upload your resume in the place of `deedy.pdf` (Or One can use the famous deedy template and build on that)
+   
+# Particle Feature
+
+The particle feature was obtained with the help of this [particleground](https://github.com/jnicol/particleground). The changes in the particles such as speed, drift, colour, direction, density, etc. can be modified in `demo.js`. Refer to the above link for more details.
+
+
+# References and Inspiration
+
+This template is a minimal form of the [Particle Jekyll Template](https://github.com/nrandecker/particle).
+>>>>>>> dd6b82066c931a0c7f638d7d494ab69b66905e93
